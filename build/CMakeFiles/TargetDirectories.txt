@@ -1,0 +1,3 @@
+/home/luna/camera_wrapper/build/CMakeFiles/rebuild_cache.dir
+/home/luna/camera_wrapper/build/CMakeFiles/cam.dir
+/home/luna/camera_wrapper/build/CMakeFiles/edit_cache.dir

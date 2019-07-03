@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall   CMakeFiles/cam.dir/cam.cpp.o  -o ../cam -lopencv2/imgproc.hpp -lopencv2/highgui.hpp 
