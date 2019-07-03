@@ -190,12 +190,6 @@ camera_BINARY_DIR:STATIC=/home/luna/camera_wrapper/build
 //Value Computed by CMake
 camera_SOURCE_DIR:STATIC=/home/luna/camera_wrapper
 
-//Value Computed by CMake
-socket_BINARY_DIR:STATIC=/home/luna/camera_wrapper/build
-
-//Value Computed by CMake
-socket_SOURCE_DIR:STATIC=/home/luna/camera_wrapper
-
 
 ########################
 # INTERNAL cache entries
